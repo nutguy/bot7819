@@ -143,4 +143,4 @@ async def hentai(ctx):
 
 
 
-bot.run('ODQxNzExMzk0ODc3NjAzODYw.YJqu0g.0dC__7Dty7mkk9X1hGJwPsELYrU')
+bot.run('ODQxNzExMzk0ODc3NjAzODYw.YJqu0g.EbuE27LV81_J_AUBQ_tEA2k6fF4')
